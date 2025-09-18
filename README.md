@@ -19,3 +19,12 @@ Clone this repository using the command:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/CodSoft_RockPaperScissors.git 
+
+Go to the project folder:
+
+cd CodSoft_RockPaperScissors
+
+
+Run the script:
+
+  python rock_paper_scissors.py 
