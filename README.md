@@ -17,7 +17,6 @@ This is my *fourth task of CodSoft Internship. It is a simple **Rock, Paper, Sci
 🚀 How to Run  
 Clone this repository using the command:  
 
-```bash
 git clone https://github.com/YOUR-USERNAME/CodSoft_RockPaperScissors.git 
 
 Go to the project folder:
